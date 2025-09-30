@@ -1,4 +1,18 @@
 # PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: RAKSHITA ISHWAR PATEL
+
+*INTERN ID*: CT04DY2849
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*:  NEELA SANTHOSH KUMAR
+
+
 🚀 Predictive Analysis using Machine Learning – Iris Dataset
 
 This project is part of my CODTECH Internship (Task-2).
