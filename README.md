@@ -79,3 +79,6 @@ Run the notebook:
 
 jupyter notebook iris_prediction.ipynb
 
+
+<img width="530" height="455" alt="Image" src="https://github.com/user-attachments/assets/ac95fc82-13f4-43d9-b8c5-f9309d9c10d8" />
+
